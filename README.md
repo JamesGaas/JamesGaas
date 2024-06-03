@@ -4,4 +4,4 @@ I like machine learning
 
 Technologies I've used so far:
 
-[![My Skills](https://skillicons.dev/icons?i=java,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,r,gcp,git,github,mysql,notion)](https://skillicons.dev)
